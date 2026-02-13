@@ -7,7 +7,7 @@ The system provides real-time temperature monitoring, configurable safety thresh
 
 ## 1. Overview
 
-Vaccines must be maintained within a strict temperature range (typically 2–8°C) to preserve potency. During transportation—especially in rural outreach—temperature excursions may go undetected, leading to vaccine spoilage and wastage.
+Vaccines must be maintained within a strict temperature range (typically 2–8°C) to preserve potency. During transportation(especially in rural outreach) temperature excursions may go undetected, leading to vaccine spoilage and wastage.
 
 This project presents a smart monitoring solution that:
 
