@@ -167,27 +167,26 @@ Future iterations would require:
 
 ---
 
-## 9. Project Structure
+## 9. Hardware Overview
 
-Temperature-Controlled-Vaccine-Cooler/
-│
-├── firmware/
-│ ├── transmitter_esp8266/
-│ └── receiver_esp32s3/
-│
-├── hardware/
-│ ├── circuit_diagrams/
-│ ├── pcb_layout/
-│ └── enclosure_design/
-│
-├── docs/
-│ ├── Final_Report.pdf
-│ ├── Feasibility_Report.pdf
-│ └── Presentation.pdf
-│
-├── images/
-│
-└── README.md
+### Circuit Diagram
+![Circuit](hardware/circuit_design.jpg)
+
+### Block Diagram
+![Block_diagram](hardware/block_design.png)
+
+### PCB Layout
+![Transmitter_PCB](hardware/Transmitter_pcb.jpg)
+![Reciever_PCB](reciever/Reciever_pcb.jpg)
+
+### Enclosure Design
+![Enclosure_1](hardware/enclosure_1.jpg)
+![Enclosure_2](hardware/enclosure_2.jpg)
+![Enclosure_3](hardware/enclosure_3.jpg)
+
+### Final product Assembly
+![Final Product](hardware/Final_product.jpg)
+
 ---
 
 ## 10. Future Improvements
